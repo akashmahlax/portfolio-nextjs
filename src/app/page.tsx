@@ -1,11 +1,11 @@
-import Hero from "@/components/hero"
-import About from "@/components/about"
-import SkillsGraph from "@/components/skills-graph"
-import ProjectFilter from "@/components/project-filter"
-import ProjectShowcase3D from "@/components/project-showcase-3d"
-import TestimonialCarousel from "@/components/testimonial-carousel"
-import ContactForm from "@/components/contact-form"
-import LanguageSwitcher from "@/components/language-switcher"
+import Hero from "@/app/components/hero"
+import About from '@/app/components/about'
+import SkillsGraph from "@/app/components/skills-graph"
+import ProjectFilter from "@/app/components/project-filter"
+import ProjectShowcase3D from "@/app/components/project-showcase-3d"
+import TestimonialCarousel from "@/app/components/testimonial-carousel"
+import ContactForm from "@/app/components/contact-form"
+import LanguageSwitcher from "@/app/components/language-switcher"
 
 export default function Home() {
   return (
