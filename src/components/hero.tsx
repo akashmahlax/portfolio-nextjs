@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion"
 import { ArrowRightIcon } from "@radix-ui/react-icons"
-import AnimatedText from "@/app/components/animated-text";
+import AnimatedText from "@/components/animated-text";
 import Image from "next/image"
 
 export default function Hero() {
